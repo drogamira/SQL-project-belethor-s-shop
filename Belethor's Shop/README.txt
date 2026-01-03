@@ -116,9 +116,8 @@ How to Use:
 4. (Optional) Import fixes.sql
 5. Or import full_database_dump.sql if you want everything at once
 
+*********************************************************
 2) Excel/Libre Office Calc file
-
-***************ENG******************************************
 
 Belethor's Shop – Data Analysis Project (Excel/LibreOffice)
 
@@ -174,5 +173,6 @@ create clear visualisations
 
 This project is for educational and portfolio purposes only.
 All Skyrim names and item references belong to Bethesda Softworks.
+
 
 Made by: Drogomira Jarzebowska 😎 
